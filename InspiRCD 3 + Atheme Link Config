@@ -193,7 +193,7 @@
 # Plaintext listener that binds on a TCP/IP endpoint:
 <bind address="1xx.xxx.xx.xxx" port="6667" type="clients">
 
-# Plaintext listener that binds on a servers TCP/IP endpoint:
+# Plaintext listener that binds on a atheme services servers TCP/IP endpoint:
 <bind address="1xx.xxx.xx.xxx" port="7001" type="servers">
 
 # Listener that binds on a UNIX endpoint (not supported on Windows):
