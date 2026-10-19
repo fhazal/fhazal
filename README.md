@@ -48,6 +48,7 @@
 
 ## 📫 Find me
 
+[![Discord: Bajubesi](https://img.shields.io/badge/Discord-Bajubesi-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/WwzzUJPR8H)
 [![fhazal.com](https://img.shields.io/badge/fhazal.com-E8B04B?style=flat-square&logo=googlechrome&logoColor=black)](https://fhazal.com/)
 [![bajubesi.com.my](https://img.shields.io/badge/bajubesi.com.my-C0392B?style=flat-square&logo=rss&logoColor=white)](https://bajubesi.com.my)
 [![bajubesi.org](https://img.shields.io/badge/bajubesi.org-30363D?style=flat-square&logo=homeassistant&logoColor=white)](https://bajubesi.org)
